@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DNNTuples
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Dawei
+    family-names: Fu
+    email: fudw@pku.edu.cn
+    affiliation: Peking University
